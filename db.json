@@ -1,14 +1,11 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "title": "JUAEL.COM",
+  "description": "e-commere",
+  "Product": [
+    { "id": "1", "Name": "Baju", "Harga": "Rp. 50.000" },
+    { "id": "2", "Name": "Celana", "Harga": "Rp. 100.000" },
+    { "id": "3", "Name": "Sepatu", "Harga": "Rp. 150.000" },
+    { "id": "4", "Name": "Sendal", "Harga": "Rp. 25.000" },
+    { "id": "5", "Name": "Jaket", "Harga": "Rp. 500.000" }
+  ]
 }
